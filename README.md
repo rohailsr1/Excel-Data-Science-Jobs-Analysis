@@ -10,8 +10,8 @@
 
 # 📸 Dashboard Preview
 
-![Dashboard]([images/dashboard.png](https://github.com/rohailsr1/Excel-Data-Science-Jobs-Analysis/blob/main/Images/SalaryDashboard1.png)
-![Dashboard]([images/dashboard.png]([https://github.com/rohailsr1/Excel-Data-Science-Jobs-Analysis/blob/main/Images/SalaryDashboard1.png](https://github.com/rohailsr1/Excel-Data-Science-Jobs-Analysis/blob/main/Images/SalaryDashboard2.png))
+![Salary Dashboard Part 1](Images/SalaryDashboard1.png)
+![Salary Dashboard Part 2](Images/SalaryDashboard2.png)
 
 
 ---
