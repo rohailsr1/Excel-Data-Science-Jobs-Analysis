@@ -1,0 +1,264 @@
+# 📊 Data Jobs Salary Dashboard
+
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
+![Data Analysis](https://img.shields.io/badge/Skill-Data%20Analysis-blue)
+![Dashboard](https://img.shields.io/badge/Project-Dashboard-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+---
+
+# 📌 Project Overview
+
+This project analyzes the **global data job market** using an **interactive Excel dashboard** built from a dataset containing **32,000+ job postings**.
+
+The purpose of this project is to explore:
+
+- 📊 Demand for different **data roles**
+- 💰 **Salary distribution** across job titles
+- 🌎 **Country-wise salary differences**
+- 💼 Impact of **job type on compensation**
+- 🔎 Most active **job posting platforms**
+
+The final deliverable is an **interactive Excel dashboard** that transforms raw job posting data into **clear and actionable insights**.
+
+---
+
+# 📂 Dataset Information
+
+The dataset includes **32,672 job postings** related to data careers from multiple countries and job platforms.
+
+### Dataset Columns
+
+| Column | Description |
+|------|-------------|
+| Job Title | Title of the job |
+| Job Location | City/location of the job |
+| Job Country | Country where job is posted |
+| Job Platform | Website where the job was posted |
+| Job Type | Full-time, Contract, Internship |
+| Salary Yearly | Estimated yearly salary |
+| Salary Hourly | Estimated hourly salary |
+| Company Name | Hiring company |
+| Skills | Technical skills required |
+
+---
+
+# 🛠 Tools Used
+
+### Microsoft Excel
+
+The entire analysis and dashboard creation process was performed using Excel:
+
+- Data Cleaning
+- Pivot Tables
+- Data Aggregation
+- Data Visualization
+- Dashboard Development
+
+### GitHub
+
+Used for:
+
+- Version control
+- Portfolio showcase
+- Project documentation
+
+---
+
+# 🧹 Data Cleaning Process
+
+Before creating the dashboard, the dataset required several preprocessing steps:
+
+1. Removed records with missing salary values  
+2. Standardized job titles across the dataset  
+3. Cleaned country and location fields  
+4. Structured salary columns for analysis  
+5. Converted skills data into a usable format  
+
+After cleaning, **32,672 job records** were available for analysis.
+
+---
+
+# 📊 Dashboard Features
+
+The Excel dashboard provides several views of the data job market.
+
+---
+
+## 📈 Job Demand Analysis
+
+This section shows the **number of job postings for each role**.
+
+Roles analyzed include:
+
+- Data Analyst
+- Data Scientist
+- Data Engineer
+- Machine Learning Engineer
+- Business Analyst
+
+### Insight
+
+Data Scientist and Data Engineer roles dominate the job market demand.
+
+---
+
+## 💰 Salary Analysis by Role
+
+This section compares **average salaries across data job titles**.
+
+### Key Findings
+
+- Machine Learning Engineers earn some of the **highest salaries**
+- Data Engineers also command **premium compensation**
+- Data Analysts typically earn **lower salaries compared to engineering roles**
+
+---
+
+## 🌎 Salary by Country
+
+This section analyzes **salary differences across countries**.
+
+### Key Findings
+
+- The **United States offers the highest salaries**
+- Developed tech markets pay significantly more
+- Salary differences vary based on local industry demand
+
+---
+
+## 💼 Job Type Distribution
+
+This visualization analyzes salary trends based on **employment type**.
+
+Job types analyzed:
+
+- Full-time
+- Contract
+- Internship
+- Temporary
+
+### Insight
+
+Full-time roles represent the **largest portion of job postings**.
+
+---
+
+## 🔎 Job Platform Distribution
+
+This section shows where companies post data jobs.
+
+Platforms analyzed:
+
+- LinkedIn
+- Indeed
+- ZipRecruiter
+- Ai-Jobs
+- Snagajob
+
+### Insight
+
+**LinkedIn and Indeed dominate data job postings globally.**
+
+---
+
+# 📸 Dashboard Preview
+
+*(Upload a screenshot of your Excel dashboard and add it below)*
+
+Example:
+
+```markdown
+![Data Jobs Dashboard](images/dashboard.png)
+```
+
+---
+
+# 📊 Key Metrics
+
+| Metric | Value |
+|------|------|
+| Total Job Postings | 32,672 |
+| Countries Covered | 100+ |
+| Job Titles Analyzed | 40+ |
+| Platforms Analyzed | 5+ |
+| Skills Identified | 100+ |
+
+---
+
+# 💡 Key Insights
+
+### 1️⃣ Data roles are in high demand
+
+Data Scientists, Data Engineers, and Data Analysts dominate job postings globally.
+
+---
+
+### 2️⃣ Specialized roles earn higher salaries
+
+Machine Learning Engineers and Data Engineers earn significantly more due to advanced technical skills.
+
+---
+
+### 3️⃣ Geography heavily impacts salary
+
+The United States and developed markets offer much higher compensation compared to other regions.
+
+---
+
+### 4️⃣ Full-time employment dominates
+
+The majority of job postings are full-time roles rather than contract positions.
+
+---
+
+### 5️⃣ LinkedIn is the top hiring platform
+
+Most companies rely on LinkedIn to recruit data professionals.
+
+---
+
+# 🧠 Skills Demonstrated
+
+This project demonstrates several **core data analyst skills**:
+
+- Data Cleaning
+- Data Transformation
+- Pivot Table Analysis
+- Data Visualization
+- Dashboard Development
+- Data Interpretation
+- Analytical Thinking
+
+---
+
+# 📁 Project Structure
+
+```
+data-jobs-salary-dashboard
+│
+├── Salary Dashboard.xlsx
+├── README.md
+└── images
+      └── dashboard.png
+```
+
+---
+
+# 🎯 Project Goal
+
+The goal of this project is to demonstrate how **Excel can be used to analyze real-world datasets and generate insights about labor market trends**.
+
+This project showcases skills relevant to **data analyst and business analyst roles**.
+
+---
+
+# 👤 Author
+
+**Muhammad Rohail**
+
+BS Entrepreneurship Student  
+Aspiring Data Analyst | Business Analyst  
+
+GitHub  
+https://github.com/rohails
